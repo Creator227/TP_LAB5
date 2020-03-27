@@ -11,4 +11,4 @@ follow simple cl interface.
  A.Kohovec - DB & UML Diagrams    
  N.Makhnitskiy: documentation & kanban     
  A.Kohovec, N.Makhnitskiy: CL application.
-
+.
